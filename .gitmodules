@@ -1,0 +1,3 @@
+[submodule "ESP32_Dex"]
+	path = ESP32_Dex
+	url = git@github.com:Hynesman/ESP32_Dex.git
